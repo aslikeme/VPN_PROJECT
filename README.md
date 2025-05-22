@@ -30,8 +30,8 @@
 	-bkp1-Deploy.sh \
 	-bkpIPtablesRules.sh \
 	-rsync_to_cron_ca.sh  \
--rsync_to_cron_mon.sh \
--rsync_to_cron_vpn.sh \
+	-rsync_to_cron_mon.sh \
+	-rsync_to_cron_vpn.sh 
 
 - Backup-2:\
  Руководство администратора	          # инструкция \
